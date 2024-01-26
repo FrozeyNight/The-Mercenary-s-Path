@@ -1,0 +1,7 @@
+items:
+{Health Potion, Speed Potion, Strength Potion}^
+
+enemies: (health, damage, speed, name, amount of items an enemy can have)
+{25, 4, 1, Construct, 0}!
+experience: (yes/no/amount of xp given by this encounter)
+4$

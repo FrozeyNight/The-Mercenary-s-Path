@@ -1,0 +1,10 @@
+items:
+{Health Potion, Speed Potion, Strength Potion}^
+
+enemies: (health, damage, speed, name, amount of items an enemy can have)
+{1, 3, 5, TinyWolf, 0}!
+{5, 1, 2, BigWolf, 0}!
+{7, 1, 1, ChunkyWolf, 0}!
+
+experience: (yes/no/amount of xp given by this encounter)
+4$

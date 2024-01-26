@@ -1,0 +1,120 @@
+You find yourself standing at the outskirts of a tranquil village named Oakbrook. The scent of blooming flowers mingles with the earthy aroma of the nearby forest. Oakbrook, a peaceful hamlet surrounded by nature, but lately, its serenity has been shattered by troubling events.
+ 
+A seasoned mercenary, you've traveled far seeking coin and adventure. The village before you seems like the perfect place to find both. As the sun dips below the horizon, painting the sky with hues of pink and gold, you take a moment to absorb the village's rustic charm.
+ 
+The village gates, more like a wooden archway than a proper gate, stand ajar, and a villager, noticing your arrival, waves you in. You step inside, greeted by curious glances.
+ 
+You have the option to explore the village further, or head straight to the heart of Oakbrook - the cozy tavern nestled near the village square.
+decision? Look around(decision1)/Go to the inn[decision2]
+
+Path1  Walking through the sagging village gates, Oakbrook sprawls before you in a mosaic of faded grandeur and rustic simplicity. The main square, although worn around the edges, boasts a semblance of former prosperity. The tavern at the heart of it all stands proudly, its timbers well-maintained, its windows adorned with colorful curtains. A few other buildings surrounding the square also wear a decent facade, their paint, though chipped, retaining a whisper of its original vibrancy.
+
+Path1  However, the further your gaze travels, the more the village reveals its age. Cottages, their roofs made of thatch and weathered wood, lean against each other for support. The cobblestone streets, though once meticulously laid, now bear the scars of countless footsteps and the passage of time. The stream to your left trickles gently, bordered by patches of wildflowers, offering a fleeting glimpse of nature's untamed beauty amidst the settlement's struggle.
+
+Path1  The air is thick with the scent of wood smoke and freshly baked bread, weaving a comforting tapestry of smells. Villagers, their faces etched with the marks of hard work and determination, move about their daily tasks, casting curious glances at the newcomer in their midst.
+
+Path1  You decide to go to the inn. Inside, the warmth of the hearth battles the chill that seeps through the cracks in the walls. The atmosphere is lively, villagers huddled around wooden tables, their laughter a comforting melody. Behind the slightly battered counter stands the tavern keeper, a middle-aged man with a welcoming grin and a glint of curiosity in his eyes.
+
+Path2  Inside, the warmth of the hearth battles the chill that seeps through the cracks in the walls. The atmosphere is lively, villagers huddled around wooden tables, their laughter a comforting melody. Behind the slightly battered counter stands the tavern keeper, a middle-aged man with a welcoming grin and a glint of curiosity in his eyes.
+ 
+Tavern Keeper: "A new face in Oakbrook! We don't see many strangers around here. You've found your way to the heart of our village, friend. This tavern has seen its share of tales and travelers. Care for a drink, or maybe a bite to eat? And if you're looking for work, well, I might have a task or two that need doin'. Take a seat, and we can talk."
+ 
+You settle onto a worn stool at the tavern, the tavern keeper pouring you a mug of frothy ale. With a friendly smile, he leans in, his voice lowered in a conspiratorial tone.
+ 
+Tavern Keeper: "Glad you've chosen to heed our call for help, stranger. We've got two tasks, both as important as the other. The first one, well, it's a matter of vanished merchants. They were last seen traveling the road that leads south out of Oakbrook. No one's heard from them since, and we fear the worst. Bandits, perhaps, or something more sinister. Find out what happened to them, and there'll be a reward in it for you."
+ 
+His gaze shifts to the window, where the fading light casts long shadows over the village square.
+ 
+Tavern Keeper: "The second task... it's a bit more peculiar. There's an old temple deep in the forest, a place of reverence for our village. Lately, though, it's fallen into disrepair, overrun by creatures and plagued by darkness. At the heart of the temple, there's a statue of our village hero, Elara. We need you to venture into the forest, cleanse the temple, and restore the statue. It's said that Elara watches over our village, and we need her to do so now more than ever."
+ 
+The tavern keeper's eyes glint with hope and worry, a silent plea for your help.
+decision? Resolve the disappearence of the merchants(decision3)/Cleanse the temple[decision4]
+
+Path3  With the tavern keeper's words echoing in your ears, you make your way to the southern road where the merchants were last seen. The forest looms on either side, its shadows deepening with the approaching night. As you venture deeper, the scent of pine fills the air, mingling with the distant aroma of decay.
+
+Path3  The silence is broken by a low growl, and suddenly, a pack of wolves emerges from the underbrush, their eyes gleaming with hunger. You draw your weapon, ready for the fight.
+
+Path3 >Encounter1<
+
+Path3 You face the wolves head-on, your sword flashing in the dim light. The battle is fierce, but your skill prevails. The wolves, defeated and scattered, retreat back into the depths of the forest. A lone merchant's body lies among the fallen leaves, torn by the wolves' savage claws.
+
+Path3  You have the option to return to the village and report your findings, or investigate further.
+
+Path3 decision? Return to the village(decision5)/Investigate further[decision6]
+
+Path4  As you venture into the depths of the forest, the ancient trees whisper secrets, and the crunch of leaves beneath your boots is your only companion. The path to the temple is treacherous, winding through the wilderness where nature and shadow seem to dance together.
+
+Path4  Before you reach the temple, a pack of wolves emerges from the underbrush, their eyes gleaming with hunger and primal instinct. With your weapon drawn, you prepare to defend yourself.
+
+Path4 >Encounter2<
+
+Path4  The wolves attack, their feral snarls filling the air. In the ensuing battle, you prove your mettle, driving the wolves back into the shadows. But the encounter leaves you on edge, aware of the lurking dangers in the wild.
+
+Path4  Finally, you arrive at the temple. It stands eerily silent, its ancient stone walls weathered by time and neglect. Moss clings to its sides, and the wind carries the faint scent of incense.
+
+Path4  Inside the temple, you find a statue of the village hero, Elara. At the base of the statue lies an old sword, a relic of a bygone era.
+
+Path4 decision? Take it(decision9)/Leave it[decision10]
+
+Path5  You return to Oakbrook, the grim news of the merchant's fate weighing heavily on your shoulders. In the warm glow of the tavern, you find the tavern keeper, his eyes filled with anticipation.
+
+Path5  Tavern Keeper: "You're back, friend. What news from the southern road?"
+
+Path5  You recount the encounter with the wolves and the merchant's fate. The tavern keeper's brow furrows in concern.
+
+Path5  Tavern Keeper: "Wolves, you say? That's troubling. They've been a nuisance for years, but never this bold. Still, thank you for dealing with the immediate threat. We'll have to be on our guard. Here's your reward. Oakbrook is grateful for your bravery."
+
+Path6  Curiosity piqued, you decide to explore the area a bit more. Among the merchant's belongings, you find a torn piece of fabric not belonging to the village. Following the trail, you stumble upon a hidden campsite. It's the bandits.
+
+Path6  Now, you have a choice: confront the bandits or quietly slip away.
+
+Path6 decision? Sneak away and return to the village(decision7)/Confront the bandits[decision8] 
+
+Path7  Choosing discretion, you quietly inform the tavern keeper about the bandits, opting to keep your involvement in the matter a secret. The tavern keeper nods, but beneath the understanding, there's a glint of disappointment, his worry etched in the furrows of his brow.
+
+Path7  Tavern Keeper: "Bandits, you say? That explains a lot. We must be vigilant. Thank you for your discretion, friend. I had hoped... well, it's troubling not knowing where they are now. Who knows what mischief they might be planning next. Regardless, Oakbrook will remain cautious. Here's your reward, as promised."
+
+Path7  In the dim light of the tavern, you can feel the weight of the tavern keeper's concern. The disappointment lingers, a silent reminder of the uncertainty now shadowing Oakbrook's future. You exchange a somber glance, both understanding the gravity of the situation and the missed opportunity to fully secure the village's safety.
+
+Path8 >Encounter4<
+
+Path8 With weapons drawn, you confront the bandits. A fierce battle ensues, but your determination prevails. The bandits are defeated, their campsite scattered. You return to Oakbrook
+
+Path8  You describe the confrontation with the bandits, detailing the fierce battle and your victory. The tavern keeper's eyes widen in both shock and admiration.
+
+Path8  Tavern Keeper: "Bandits in our very woods? Unbelievable. But your courage has saved us from a greater threat. Oakbrook will never forget your valor. Here's your reward, well-earned."
+
+Path9 give% Elara's sword[+5]
+
+Path9  You choose to take the sword, feeling its weight in your hands. The blade, though old, carries a sense of history and purpose. With the sword in your possession, a sudden rumble echoes through the temple. The statue of the forgotten deity comes to life, its eyes glowing with a fierce determination. It raises an ethereal weapon, ready to test your worth.
+
+Path9 >Encounter5<
+
+Path9  The battle that ensues is intense, the forgotten deity's spirit testing your mettle. It fights with the strength of a deity, its strikes swift and purposeful. After a grueling fight, you manage to best the spirit, the statue returning to its silent, unmoving state.
+
+Path9  With the sword in hand, you leave the temple, feeling the weight of the forgotten deity's judgment upon you. The weapon is yours, but the consequences of wielding it will linger in your thoughts.
+
+Path9 >Encounter6<
+
+Path9  The bear charges, its sheer size and strength making it a formidable foe. You fight valiantly, drawing on all your skills and the courage in your heart. The battle is intense, but in the end, you prevail, the bear retreating into the depths of the forest.
+
+Path9  you return to Oakbrook, the weight of the ancient weapon a constant reminder of the deity's judgment. The villagers notice the sword immediately, their eyes widening in awe and, for some, trepidation. You find the tavern keeper, his expression a mix of curiosity and concern.
+
+Path9  Tavern Keeper: "Is that... the sword from the temple? You took it, didn't you? By the gods, you've angered the very spirits that watch over us! What have you done, mercenary?"
+
+Path9  You explain your actions, defending your choice. The tavern keeper's anger slowly fades, replaced by a grudging understanding.
+
+Path9  Tavern Keeper: "I hope you know what you're doing. We've always revered that temple, and now you've taken a piece of our history. But if you truly believe you can handle its power and fulfill the prophecy, so be it. Just be wary; relics have a way of changing even the bravest of souls."
+
+Path10  You decide to leave the sword, respecting the sanctity of the temple. Your own weapon is reliable enough, and you don't want to disturb the temple's ancient artifacts.
+
+Path10 >Encounter6<
+
+Path10  The bear charges, its sheer size and strength making it a formidable foe. You fight valiantly, drawing on all your skills and the courage in your heart. The battle is intense, but in the end, you prevail, the bear retreating into the depths of the forest.
+
+Path10  Returning to Oakbrook, you find the tavern keeper, who regards you with a mixture of relief and gratitude.
+
+Path10  Tavern Keeper: "You didn't take the sword, did you? Thank the gods for your wisdom. Our village may be weathered, but our traditions and respect for the divine are what keep us strong. We cannot afford to anger the spirits that watch over us. You've proven yourself a true protector of Oakbrook."
+
+Path10  The tavern keeper's words are laden with respect, and the villagers, too, look at you with newfound admiration. Your decision has strengthened the village's faith, and in their eyes, you've become a beacon of hope, a mercenary worthy of their trust.
+

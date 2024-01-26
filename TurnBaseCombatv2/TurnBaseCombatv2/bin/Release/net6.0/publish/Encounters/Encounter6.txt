@@ -1,0 +1,8 @@
+items:
+{Health Potion, Speed Potion, Strength Potion}^
+
+enemies: (health, damage, speed, name, amount of items an enemy can have)
+{16, 4, 4, Wild Bear, 0}!
+
+experience: (yes/no/amount of xp given by this encounter)
+4$

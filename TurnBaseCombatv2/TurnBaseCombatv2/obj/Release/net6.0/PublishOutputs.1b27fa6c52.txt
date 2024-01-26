@@ -1,0 +1,5 @@
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Release\net6.0\publish\TurnBaseCombatv2.exe
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Release\net6.0\publish\TurnBaseCombatv2.dll
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Release\net6.0\publish\TurnBaseCombatv2.deps.json
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Release\net6.0\publish\TurnBaseCombatv2.runtimeconfig.json
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Release\net6.0\publish\TurnBaseCombatv2.pdb

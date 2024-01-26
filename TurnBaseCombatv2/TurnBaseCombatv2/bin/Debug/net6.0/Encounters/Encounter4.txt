@@ -1,0 +1,10 @@
+items:
+{Health Potion, Speed Potion, Strength Potion}^
+
+enemies: (health, damage, speed, name, amount of items an enemy can have)
+{4, 3, 1, Bandit Archer, 2}!
+{9, 1, 2, Bandit Fighter, 1}!
+{9, 1, 2, Bandit Fighter, 1}!
+
+experience: (yes/no/amount of xp given by this encounter)
+4$

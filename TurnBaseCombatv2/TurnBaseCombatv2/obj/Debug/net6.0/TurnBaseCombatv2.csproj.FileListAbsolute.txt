@@ -1,0 +1,45 @@
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.exe
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.deps.json
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.runtimeconfig.json
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.dll
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.pdb
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.csproj.AssemblyReference.cache
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.AssemblyInfoInputs.cache
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.AssemblyInfo.cs
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.csproj.CoreCompileInputs.cache
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.dll
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\refint\TurnBaseCombatv2.dll
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.pdb
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.genruntimeconfig.cache
+D:\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\ref\TurnBaseCombatv2.dll
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.dll
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\refint\TurnBaseCombatv2.dll
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.pdb
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.exe
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.deps.json
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.runtimeconfig.json
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.dll
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.pdb
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.csproj.AssemblyReference.cache
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.AssemblyInfoInputs.cache
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.AssemblyInfo.cs
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.csproj.CoreCompileInputs.cache
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.genruntimeconfig.cache
+C:\Users\Barte\OneDrive\Dokumenty\C# Masterclass\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\ref\TurnBaseCombatv2.dll
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.exe
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.deps.json
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.runtimeconfig.json
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.dll
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\bin\Debug\net6.0\TurnBaseCombatv2.pdb
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.csproj.AssemblyReference.cache
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.AssemblyInfoInputs.cache
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.AssemblyInfo.cs
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.csproj.CoreCompileInputs.cache
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.dll
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\refint\TurnBaseCombatv2.dll
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.pdb
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\TurnBaseCombatv2.genruntimeconfig.cache
+C:\Users\FrozeyNight\Documents\CodingThings\TurnBaseCombatv2\TurnBaseCombatv2\obj\Debug\net6.0\ref\TurnBaseCombatv2.dll

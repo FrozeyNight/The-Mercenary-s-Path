@@ -1,0 +1,19 @@
+As you step into the dense, mysterious forest, the rustling leaves and distant whispers of the wind surround you. The air is thick with anticipation as you explore this untamed wilderness. Suddenly, the eerie howling of wolves pierces the tranquil silence, and you find yourself facing a fierce and unexpected threat.
+>Encounter1<
+This battle may be won, but you hear more wolves closing in. Would you like to escape?
+decision? Escape(decision1)/Fight[decision2]
+Path1 You are able to flee from the scene.
+Path1 After a bit of running you hear a few howls closing in behind you
+Path1 >Encounter3<
+Path1 You fight off those chasing you.
+Path1 Hey, wanna fight them again, but in spirit? Totally not filler content for testing.
+Path1 decision? Fight Spirits(decision3)/Nahhh[decision4]
+Path2 You decide to stand your ground.
+Path2 >Encounter2<
+Path2 You fight off all the wolves.
+Path2 Hey, wanna fight them again, but in spirit? Totally not filler content for testing. 2 btw
+Path2 decision? Fight Spirits2(decision5)/Nahhh2[decision6]
+Path3 >Encounter2<
+Path4 oh ok
+Path5 >Encounter3<
+Path6 oh ok

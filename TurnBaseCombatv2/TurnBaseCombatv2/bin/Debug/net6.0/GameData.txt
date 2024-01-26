@@ -1,0 +1,5 @@
+experience needed for a level up: (number/number times number per level up 2 is the defult)
+2*4$
+
+items:
+{Health Potion, Speed Potion, Strength Potion}^

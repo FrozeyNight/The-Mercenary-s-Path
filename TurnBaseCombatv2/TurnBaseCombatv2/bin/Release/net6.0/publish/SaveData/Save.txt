@@ -1,0 +1,17 @@
+player stats: (maximum health, health, damage, speed, name, playerXP, playerLevel, weapon, encounter, save, lineCounter, decisionPath, position in inventory (star) name of the item (how much damage does it add))
+20
+20
+3
+3
+Frozey
+0
+0
+
+1
+1
+0
+0
+0*Health Potion
+2*Health Potion
+3*Speed Potion
+7*BrokenClub[+1]
